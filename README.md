@@ -43,3 +43,10 @@ Here are some ideas to get you started:
 <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+<p align="left">
+<img alt="wjx0820's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=wjx0820&show_icons=true&include_all_commits=true">
+<img alt="wjx0820's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjx0820">
+</p>
