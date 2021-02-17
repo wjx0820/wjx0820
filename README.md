@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img alt="wjx0820's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=wjx0820&show_icons=true&include_all_commits=true">
-<img alt="wjx0820's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjx0820">
+<img alt="wjx0820's github stats" width='583' height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjx0820">
 </p>
